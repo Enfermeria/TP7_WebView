@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CA TP7 Webview</string>
+    <string name="query_hint">¿Dónde quieres ir hoy?</string>
+</resources>
